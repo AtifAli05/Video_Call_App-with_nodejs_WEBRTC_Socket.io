@@ -1,0 +1,19 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+.container {
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* background-color: lightgray; */
+
+}
+.mainContainer .container input{
+  display: block;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 8px;
+}
